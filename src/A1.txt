@@ -1,0 +1,23 @@
+Name: Feras Albaroudi
+UPI: falb418
+ID: 606316306
+
+ - How much time did the assignment take you overall?
+
+Around 12 hours.
+
+ - Which areas of the assignment did you find easy and which ones were difficult?
+
+Everything was mostly okay, although the specifications were a little confusing as some of the information provided in
+the specification document didn't match what was on Coderunner2 (or wasn't there at all) and vice versa.
+MovingQuadCircles was the hardest thing to implement.
+
+ - Which topics in the course did the assignment most help you understand?
+
+Inheritance is the main one. I did learn a little bit about GUI programming as well from looking at the provided code,
+but it wasn't anything I couldn't already find online.
+
+ - Any other comments you would like to make.
+
+Compared to the projects in COMPSCI 130 and ENGGEN 131 this project felt quite short. Nonetheless, it was still
+enjoyable. Thank you!
