@@ -67,7 +67,12 @@ public class A1 extends JFrame {
      * main method for A1
      */
     public static void main(String[] args) {
-        javax.swing.SwingUtilities.invokeLater(() -> new A1());
+        try {
+            UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+        } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | UnsupportedLookAndFeelException e) {
+            e.printStackTrace();
+        }
+        javax.swing.SwingUtilities.invokeLater(A1::new);
     }
 
     /**
